@@ -1,0 +1,6 @@
+{
+    "image_dir": "data/camera",
+    "cls_csv": "data/global.csv",
+    "det_csv": "data/caries.csv",
+    "seg_csv": "data/tooth.csv"
+}
